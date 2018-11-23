@@ -1,0 +1,80 @@
+/**
+ * Created by fengh on 2016/5/6.
+ * 基础常量信息
+ */
+export default {
+  // 显示结果为报表
+  DISPLAY_REPORT_FORM_ONE: 10,
+  DISPLAY_REPORT_FORM_TWO: 11,
+  DISPLAY_REPORT_FORM_THREE: 12,
+  // 显示结果为散点图：2种
+  DISPLAY_SCATTER_CHART_ONE: 20,
+  DISPLAY_SCATTER_CHART_TWO: 21,
+  // 显示结果为折线图：5种
+  DISPLAY_LINE_CHART_ONE: 30,
+  DISPLAY_LINE_CHART_TWO: 31,
+  DISPLAY_LINE_CHART_THREE: 32,
+  DISPLAY_LINE_CHART_FOUR: 33,
+  DISPLAY_LINE_CHART_FIVE: 34,
+  // 显示结果为柱状图：6种
+  DISPLAY_BAR_CHART_ONE: 40,
+  DISPLAY_BAR_CHART_TWO: 41,
+  DISPLAY_BAR_CHART_THREE: 42,
+  DISPLAY_BAR_CHART_FOUR: 43,
+  DISPLAY_BAR_CHART_FIVE: 44,
+  DISPLAY_BAR_CHART_SIX: 45,
+  // 显示结果为地图：1种
+  DISPLAY_MAP_CHART: 50,
+  // 显示结果为饼状图：4种
+  DISPLAY_PIE_CHART_ONE: 60,
+  DISPLAY_PIE_CHART_TWO: 61,
+  DISPLAY_PIE_CHART_THREE: 62,
+  DISPLAY_PIE_CHART_FOUR: 63,
+// 显示结果为漏斗图：1种
+  DISPLAY_FUNNEL_CHART_ONE: 70,
+// 显示结果为K线图：1种
+  DISPLAY_K_LINE_CHART_ONE: 80,
+// 显示结果为仪表盘：2种
+  DISPLAY_DASH_BOARD_CHART_ONE: 90,
+  DISPLAY_DASH_BOARD_CHART_TWO: 91
+}
+// 显示结果为报表
+//  const DISPLAY_REPORT_FORM_ONE = 10;
+//  const DISPLAY_REPORT_FORM_TWO = 11;
+//  const DISPLAY_REPORT_FORM_THREE = 12;
+// // 显示结果为散点图：2种
+//  const DISPLAY_SCATTER_CHART_ONE = 20;
+//  const DISPLAY_SCATTER_CHART_TWO = 21;
+// 显示结果为折线图：5种
+// const DISPLAY_LINE_CHART_ONE = 30;
+// const DISPLAY_LINE_CHART_TWO = 31;
+// const DISPLAY_LINE_CHART_THREE = 32;
+// const DISPLAY_LINE_CHART_FOUR = 33;
+// const DISPLAY_LINE_CHART_FIVE = 34;
+// 显示结果为柱状图：6种
+// const DISPLAY_BAR_CHART_ONE = 40;
+// const DISPLAY_BAR_CHART_TWO = 41;
+// const DISPLAY_BAR_CHART_THREE = 42;
+// const DISPLAY_BAR_CHART_FOUR = 43;
+// const DISPLAY_BAR_CHART_FIVE = 44;
+// const DISPLAY_BAR_CHART_SIX = 45;
+// 显示结果为地图：1种
+// const DISPLAY_MAP_CHART = 50;
+// // 显示结果为饼状图：4种
+// const DISPLAY_PIE_CHART_ONE = 60;
+// const DISPLAY_PIE_CHART_TWO = 61;
+// const DISPLAY_PIE_CHART_THREE = 62;
+// const DISPLAY_PIE_CHART_FOUR = 63;
+// // 显示结果为漏斗图：1种
+// const DISPLAY_FUNNEL_CHART_ONE = 70;
+// // 显示结果为K线图：1种
+// const DISPLAY_K_LINE_CHART_ONE = 80;
+// // 显示结果为仪表盘：2种
+// const DISPLAY_DASH_BOARD_CHART_ONE = 90;
+// const DISPLAY_DASH_BOARD_CHART_TWO = 91;
+
+
+//  系统内置颜色，echarts渲染图表所需
+const RGBA = ['rgba(120, 36, 50, 0.5)', 'rgba(25, 100, 150, 0.5)'];
+const RGB_ZERO = ['rgb(251, 118, 123)', 'rgb(129, 227, 238)'];
+const RGB_ONE = ['rgb(204, 46, 72)', 'rgb(25, 183, 207)'];
